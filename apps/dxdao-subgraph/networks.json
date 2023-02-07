@@ -1,4 +1,18 @@
 {
+  "gnosis": {
+    "GuildRegistry": {
+      "address": "0x7E6EB84621c3bb8455046f380c3934fAf8076158",
+      "startBlock": 25681500
+    },
+    "PermissionRegistry": {
+      "address": "0x58A7d7C15Dcc73E9bEEe4C8c14AD4bFCac7058DC",
+      "startBlock": 25681500
+    },
+    "Create2Deployer": {
+      "address": "0x17f4663d463C874352B30A09aAB0CA48A06060A3",
+      "startBlock": 25681500
+    }
+  },
   "private": {
     "GuildRegistry": {
       "address": "0xf0EE9557982b4300a69f355a896Fd3af69e46D32",
